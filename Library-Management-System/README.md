@@ -1,1 +1,2 @@
-Project Details:
+## Project Details:
+In this project, I implemented a Hotel Management System using Microsoft Access. The primary goal was to create a functional database to manage the operations of a hotel, including guest details, room bookings, staff management, and billing information. The system architecture consists of multiple tables designed according to a relational database model, each containing at least five rows of sample data. Additionally, a relationship diagram was developed to represent the associations between different entities within the system.
