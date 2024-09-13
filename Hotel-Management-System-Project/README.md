@@ -1,3 +1,4 @@
+## Project Details
 Project answers the following questions: 
 
 1. Find the names of person having at least 2 checkouts during last month. 
